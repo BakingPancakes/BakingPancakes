@@ -1,7 +1,9 @@
 ## 🪅About me
 
 UMass CICS class of '26 with a B.S. in Computer Science
+
 Pursuing M.S. in Computer Science after :>
+
 Vast interest in the life sciences and data engineering -- hoping to build my professional experience!
 
 -------------------
