@@ -1,8 +1,12 @@
 ## 🪅About me
 
-**BakingPancakes/BakingPancakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UMass CICS class of '26 with a B.S. in Computer Science
+Pursuing M.S. in Computer Science after :>
+Vast interest in the life sciences and data engineering -- hoping to build my professional experience!
 
-Here are some ideas to get you started:
+-------------------
+
+Some default github readme.md stuff before I fill up this page:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
