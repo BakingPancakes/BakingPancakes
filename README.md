@@ -14,10 +14,15 @@ After summer 2026 I will pursue an M.S. in CS at UMass Amherst with exp. grad. M
 Integrated IMU and ESP32-S3 micro controller with an SVM model to predict 5 distinct
 hand-gestures at 95% accuracy from real-time signals and send commands to a drone accordingly
 
+### ([Link](https://github.com/BakingPancakes/U-Commerce)) U-commerce: Full-stack e-commerce platform for solicitation of student services and products
+> React, PostgreSQL/Supabase, ExpressJS, NodeJS, SQL
+
+Developed full-stack application for 5-college (Pioneer Valley) students to centralize the need for students to buy and solicit products such as used furniture, class materials, housing, homemade products, and student businesses. Mimicked agile-based developed in a team of 4 while adhering to standard software design and git best practices.
+
 ### ([Link](https://github.com/BakingPancakes/ML-for-Business-Decision-Making-Project/blob/master/main.ipynb)) Evaluation and Deployment of 6 Machine Learning Models to predict loan default:
 > Scikit-learn, numpy, pandas, streamlit, joblib, Jupyter Notebook, Python
 
-Alongside [Edouard Mason](https://github.com/edouardmason), I developed this project while mimicking spring-based development and using git best practices. My responsibilities were to determine data integrity through EDA, then I evaluated the performance of 3 basic and 3 advanced models by measuring accuracy and training time before and after hyperparameter tuning. I then prepared models for deployment by creating pipeline with appropriate transformers, scalers, preprocessing, and optimal hyperparameters, then stored fitted pipeline using streamlit.
+Alongside [Edouard Mason](https://github.com/edouardmason), I developed this project while mimicking agile-based development and using git best practices. My responsibilities were to determine data integrity through EDA, then I evaluated the performance of 3 basic and 3 advanced models by measuring accuracy and training time before and after hyperparameter tuning. I then prepared models for deployment by creating pipeline with appropriate transformers, scalers, preprocessing, and optimal hyperparameters, then stored fitted pipeline using streamlit.
 
 ### [Shaebae.blog](https://shaebae.blog) website hosted on a Raspberry Pi 5
 > Vue, PostgreSQL, ExpressJS, Node.js, TailwindCSS, Apache HTTP server
