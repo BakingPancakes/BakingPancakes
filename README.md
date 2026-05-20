@@ -1,8 +1,8 @@
 # About me
 
-A former intern at both [CRICO](https://www.rmf.harvard.edu/) and [Volta Labs](https://www.voltalabs.com/), and an avid follower of the advances within the life sciences, wearable health monitoring, and data science for healthcare. After finishing my undergraduate B.S. in Computer Science this May 2026, my one goal is to apply my skillset where I can make the best impact alongside people who are just as passionate as me!
+A graduate from UMass Amherst with a B.S. in Computer science, a former intern at both [CRICO](https://www.rmf.harvard.edu/) and [Volta Labs](https://www.voltalabs.com/), and an avid follower of the advances within wearable health monitoring, lab automation robotics, and data science for healthcare. My goal going forward is to apply my skillset where I can make the best impact alongside people who are just as passionate as me!
 
-After summer 2026 I will pursue an M.S. in CS at UMass Amherst with exp. grad. May 2027.
+Pursing an M.S. in CS at UMass Amherst with exp. grad. May 2027.
 
 -------------------
 
